@@ -4,7 +4,7 @@
 //  that none of the queens are actively attacking
 //  any other queen.
 //  Solution uses recursion and backtracking.
-//
+//  Source: Antti Laaksonen, Competitive Programmer's Handbook
 
 #include <iostream>
 
